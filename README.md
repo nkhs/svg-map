@@ -1,0 +1,1 @@
+![Screen](https://github.com/nkhs/svg-map/blob/master/screen.jpg?raw=true)
